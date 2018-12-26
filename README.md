@@ -39,7 +39,7 @@ I'd run thru the entire [KA Intro to HTML & CSS](https://www.khanacademy.org/com
 
 ### Adding functionality with JS
 
-I'd take your time on [all of this](https://www.khanacademy.org/computing/computer-programming/html-css-js), aside from the animation (which is cool, but def optional).
+I recommend **spending the most time** on [KA's Intro to JS for web apps](https://www.khanacademy.org/computing/computer-programming/html-css-js).. aside from the section on animation (cool, but def optional).
 
 ### jQuery
 
