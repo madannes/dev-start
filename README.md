@@ -1,6 +1,12 @@
 ## Heads up
 
-This site is designed to help anyone interested in a career in software development learn some of the foundational elements that **_I think_** are key to getting started (or deciding if you'd even want to). I consider myself a pragmatist and do my best to follow the KISS principle, so I'll try to skip the fluff and get right down to the stuff that **_I think_** matters. Web development jobs seem to be in high demand, and most pay well with lots of flexibility. Since **_I'm not a professional teacher_**, I'll be pointing you to links that **_I think_** are worthwhile. Most of the links will be on Khan Academy (KA), feel free to watch more and setup and account to help track your progress (I think they have multiple ways to do that but haven't tried myself). Different people learn different ways though, so if you don't like KA or prefer to read and do examples, I'm including w3schools links too (it's a great reference regardless).
+This site is designed to help anyone interested in a career in software development learn some of the foundational elements that **_I think_** are key to getting started (or deciding if you'd even want to). I consider myself a pragmatist and do my best to follow the KISS principle, so my aim is for **NO FLUFF, ALL STUFF**.
+
+Web development jobs seem to be in high demand and most pay well (start around 50k and work up to 100k+) with lots of flexibility. You may even be able to do development in your spare time for extra income or to decide if you like it. Work from home (WFH)? Definitely an option. The web isn't going away any time soon either, and if you get great at web development you can always move into other specialties (mobile, games, cloud, etc.) down the line.
+
+Since my career has been mostly business focused and **_I'm not a professional teacher_**, I'll be pointing you to links that **_I think_** are worthwhile. **All the content is free** (my favorite price) on Khan Academy (KA). Please feel free to watch any extra videos that interest you and/or setup and account to help track your progress (I think they have multiple ways to do that but haven't tried myself). Different people learn different ways though, so if you don't like KA or prefer to just read and do examples, I'm including w3schools links too (it's a great reference regardless).
+
+IMO, if you're willing to be a hard worker, are a decent communicator, care about other people, and are OK with (or excited about) constantly learning, you should be able to succeed in a development career! A college degree doesn't hurt, but it's def not a requirement for success in web development.
 
 **PRO TIP**: _look for the speed setting on all videos. I watch everything in at least 2x speed and slow it down or repeat a section if I need to. That can cram 2hrs of learning into 1hr_ ;-)
 
@@ -52,6 +58,8 @@ And the [w3schools alternative/add-on](https://www.w3schools.com/js/default.asp)
 jQuery is ancient (in web years) but still widely used and helpful for basic web apps. The videos and examples in [KA's jQuery section](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) are probably worth going thru (at 2x speed anyway), but you might find it faster to scan thru the [w3schools alternative](https://www.w3schools.com/jquery/default.asp). jQuery is less important than the previous section because frameworks like Angular, React and Vue are way more powerful (and valuable career-wise) once you get the HTML, CSS and JS basics down. However, jQuery will probably be around (people's jobs will include maintaining sites/apps that use it) for a long time. Since it elegantly glues HTML, CSS and JS (aka web) development, it will probably also help you get your brain wrapped around the concepts quicker. Guessing again.. this should maybe take 3hrs..?
 
 ## What's next
+
+Kudos to you if you made it this far! 
 
 * Source control - git
 * Tools - VSCode, GitHub, BitBucket
