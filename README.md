@@ -12,10 +12,9 @@ I recommend watching at least
 * What is the internet (4min) and
 * HTTP and HTML (7min)
 
-## How computers work
+### How computers work
 
 I recommend watching at least
 * Intro (1min)
 * How computers work (5min)
 * Hardware and software (5min)
-
