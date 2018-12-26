@@ -4,4 +4,4 @@ This site is designed to help anyone interested in a career in software developm
 
 ## Internet basics
 
-Khan Academy has lots of good info, I recommend watching *What is the internet* and *HTTP and HTML* at a minimum: https://www.khanacademy.org/computing/computer-science/internet-intro
+Khan Academy has lots of good info, I recommend watching *What is the internet* and *HTTP and HTML* at a minimum: [https://www.khanacademy.org/computing/computer-science/internet-intro]
