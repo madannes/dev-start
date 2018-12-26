@@ -4,17 +4,15 @@ This site is designed to help anyone interested in a career in software developm
 
 ## Basics
 
-From [Khan Academy's "Computer Science" section(https://www.khanacademy.org/computing/computer-science)..
+From [Khan Academy's "Computer Science" section](https://www.khanacademy.org/computing/computer-science)..
 
 ### Internet 101
 
-I recommend watching at least
 * What is the internet (4min) and
 * HTTP and HTML (7min)
 
 ### How computers work
 
-I recommend watching at least
 * Intro (1min)
 * How computers work (5min)
 * Hardware and software (5min)
