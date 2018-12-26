@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+This site is designed to help anyone interested in a career in software development learn some of the foundational elements that **I think** are important to getting started. I consider myself very pragmatic and do my best to follow the KISS principle, so I'll do my best to skip the fluff and get right down to the stuff. Web development jobs seem to be in high demand, and most pay well with lots of flexibility. Since I'm not a professional teacher, I'll be pointing you to links that I think are worthwhile.. though I admit I haven't gone through everything myself.
 
-You can use the [editor on GitHub](https://github.com/madannes/dev-start/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**PRO TIP**: *look for the speed setting on all videos. I watch everything in at least 2x speed and slow it down or repeat a section if I need to. That cuts 2hr tutorials in half* ;-)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Internet basics
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madannes/dev-start/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Khan Academy has lots of good info, I recommend watching *What is the internet* and *HTTP and HTML* at a minimum: https://www.khanacademy.org/computing/computer-science/internet-intro
