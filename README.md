@@ -4,7 +4,7 @@ This site is designed to help anyone interested in a career in software developm
 
 ## Basics
 
-Spend ~30min (or ~15min at 2x speed) in [KA's "Computer Science" section](https://www.khanacademy.org/computing/computer-science)..
+Spend ~30min (or 15min at 2x speed) in [KA's "Computer Science" section](https://www.khanacademy.org/computing/computer-science)..
 
 ### Internet 101
 
@@ -31,7 +31,7 @@ Now you'll learn about the 3 core pieces of a web app:
 * CSS - styling
 * Javascript (JS) - functionality (aka behavior)
 
-_FWIW, I define a web **site** as a static page of information (e.g. wikipedia or the page you're reading now) whereas a web **application** has some functionality built into it (e.g. gmail or facebook)._
+FWIW, I define a web **site** as a static page of information (e.g. wikipedia or the page you're reading now) whereas a web **application** has some functionality built into it (e.g. gmail or facebook).
 
 ### Intro to HTML & CSS
 
@@ -39,5 +39,8 @@ I'd run thru the entire [KA Intro to HTML & CSS](https://www.khanacademy.org/com
 
 ### Adding functionality with JS
 
-I'd take your time on [all of this](https://www.khanacademy.org/computing/computer-programming/html-css-js), aside from the animation (which is cool, but definitely optional).
+I'd take your time on [all of this](https://www.khanacademy.org/computing/computer-programming/html-css-js), aside from the animation (which is cool, but def optional).
 
+### jQuery
+
+jQuery is still widely used and pretty helpful for basic web apps. [KA's jQuery section](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) is worth going thru (at 2x speed), though it's less important than the previous section because frameworks like Angular, React and Vue are probably better to learn once you get the HTML, CSS and JS basics down.
