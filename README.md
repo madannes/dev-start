@@ -2,7 +2,7 @@
 
 This site is designed to help anyone interested in a career in software development learn some of the foundational elements that **_I think_** are key to getting started (or deciding if you'd even want to). I consider myself a pragmatist and do my best to follow the KISS principle, so my aim is for **NO FLUFF, ALL STUFF**.
 
-Web development jobs seem to be in high demand and most pay well (start around 50k and work up to 100k+) with lots of flexibility. You may even be able to do development in your spare time for extra income or to decide if you like it. Work from home (WFH)? Definitely an option. The web isn't going away any time soon either, and if you get great at web development you can always move into other specialties (mobile, games, cloud, etc.) down the line.
+Web development jobs seem to be in high demand and most pay well (start around 50k and work up to 100k+) with lots of flexibility. You may even be able to do development in your spare time for extra income or to decide if you like it. Work from home? Definitely an option. The web isn't going away any time soon either, and if you get great at web development you can always move into other specialties (AI, data science, mobile, games, cloud, etc.) down the line.
 
 Since my career has been mostly business focused and **_I'm not a professional teacher_**, I'll be pointing you to links that **_I think_** are worthwhile. **All the content is free** (my favorite price) on Khan Academy (KA). Please feel free to watch any extra videos that interest you and/or setup and account to help track your progress (I think they have multiple ways to do that but haven't tried myself). Different people learn different ways though, so if you don't like KA or prefer to just read and do examples, I'm including w3schools links too (it's a great reference regardless).
 
@@ -29,17 +29,15 @@ You can spend as much time as you like watching other videos as they're probably
 
 ## Building web sites
 
-### Intro to HTML & CSS
-
-**NOTE**: _Please keep track of how long these take you, then LMK so I can update this page with that info!_
-
 Now you'll learn about the 3 core pieces of a web app:
 
 * HTML - structure
 * CSS - styling
 * Javascript (JS) - functionality (aka behavior)
 
-FWIW, I define a web **site** as a static page of information (e.g. wikipedia or the page you're reading now) whereas a web **application** has some functionality built into it (e.g. gmail or facebook).
+FWIW, **_I_** define a web **site** as a mostly static (i.e. not changing much) page of information (think wikipedia or the page you're reading now) whereas a web **application** has dynamic data and functionality built into it (ala gmail or facebook).
+
+**NOTE**: _Please keep track of how long these take you, then LMK so I can update this page with that info!_
 
 ### Intro to HTML & CSS
 
@@ -68,3 +66,5 @@ Kudos to you if you made it this far!
 * Code camps
 * Blogs and resumes
 * APIs and databases
+
+_Updated 12/28/2018_
