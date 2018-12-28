@@ -57,7 +57,9 @@ jQuery is ancient (in web years) but still widely used and helpful for basic web
 
 ## What's next
 
-Kudos to you if you made it this far! 
+Kudos to you if you made it this far! To succeed in a development career (or maybe just get hired), you **MUST** have some proficiency in the basics. Those who are personable, communicate well, and are willing to take on (and maybe master) all the ancillary technology and techniques will likely elevate themselves above 80% of their peers. 
+
+When I have time, I'll add more links and info (or do a screenshare walk-thru) related to
 
 * Source control - git
 * Tools - VSCode, GitHub, BitBucket
@@ -66,5 +68,9 @@ Kudos to you if you made it this far!
 * Code camps
 * Blogs and resumes
 * APIs and databases
+* Agile processes
+* Human factors and communication
+* Testing
+* DevOps and cloud
 
 _Updated 12/28/2018_
