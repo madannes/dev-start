@@ -1,6 +1,6 @@
 ## Heads up
 
-This site is designed to help anyone interested in a career in software development learn some of the foundational elements that **_I think_** are key to getting started (or deciding if you'd even want to). I consider myself a pragmatist and do my best to follow the KISS principle, so my aim is for **NO FLUFF, ALL STUFF**.
+This page is designed to help anyone interested in a career in software development learn some of the foundational elements that **_I think_** are key to getting started (or deciding if you'd even want to). I consider myself a pragmatist and do my best to follow the KISS principle, so my aim is for **NO FLUFF, ALL STUFF**.
 
 Web development jobs seem to be in high demand and most pay well (start around 50k and work up to 100k+) with lots of flexibility. You may even be able to do development in your spare time for extra income or to decide if you like it. Work from home? Definitely an option. The web isn't going away any time soon either, and if you get great at web development you can always move into other specialties (AI, data science, mobile, games, cloud, etc.) down the line.
 
